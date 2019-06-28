@@ -1,0 +1,14 @@
+{
+  "name": "gimmevent",
+  "version": "1.0.0",
+  "description": "application to search for events with query parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Hausner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
