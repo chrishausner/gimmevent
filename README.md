@@ -14,11 +14,6 @@ To have a central Application where I can search for upcoming Networking events 
 
 
 
-## Important
-
-This is a longterm project, I will keep updating and adding new features. 
-
-
 
 ## Folder structure
 
